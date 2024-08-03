@@ -1,0 +1,14 @@
+.link-caption {
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+.link-icon {
+  width: 24px;
+}
+@media(max-width: 991px) {
+  .link-caption {
+    display: none;
+  }
+}

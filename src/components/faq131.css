@@ -1,0 +1,408 @@
+.faq131-faq8 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+}
+.faq131-max-width {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq131-container {
+  align-self: stretch;
+}
+.faq131-section-title {
+  align-items: flex-start;
+}
+.faq131-content {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.faq131-text {
+  text-align: left;
+}
+.faq131-faq3 {
+  width: 100%;
+  align-items: flex-start;
+}
+.faq131-trigger {
+  cursor: pointer;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-faq2-question {
+  width: 100%;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500;
+}
+.faq131-icons-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-icon {
+  width: 24px;
+  height: 24px;
+}
+.faq131-icon02 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-container03 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq131-faq1 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq131-trigger1 {
+  cursor: pointer;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-faq1-question {
+  width: 100%;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: "Noto Sans";
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.faq131-icons-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-icon04 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-icon06 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-container06 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq131-faq2 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq131-trigger2 {
+  cursor: pointer;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-faq2-question1 {
+  width: 100%;
+  align-self: flex-start;
+}
+.faq131-icons-container2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-icon08 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-icon10 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-container09 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq131-text051 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text054 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text055 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text060 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text066 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text072 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text078 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-faq4 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq131-trigger3 {
+  cursor: pointer;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-faq2-question2 {
+  width: 100%;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500;
+}
+.faq131-icons-container3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-icon12 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-icon14 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-container12 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq131-faq5 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq131-trigger4 {
+  cursor: pointer;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-faq1-question1 {
+  width: 100%;
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-icons-container4 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq131-icon16 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-icon18 {
+  width: 24px;
+  height: 24px;
+}
+.faq131-container15 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq131-text090 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text091 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text096 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text100 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text104 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text108 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text114 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text118 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text122 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text126 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+.faq131-text132 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text136 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.faq131-text140 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+@media(max-width: 1200px) {
+  .faq131-text {
+    line-height: 85px;
+  }
+}
+@media(max-width: 479px) {
+  .faq131-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .faq131-text {
+    line-height: var(--dl-size-size-small);
+  }
+  .faq131-faq2-question {
+    font-size: 24px;
+  }
+  .faq131-faq1-question {
+    font-size: 24px;
+  }
+  .faq131-faq2-question1 {
+    font-size: 24px;
+  }
+  .faq131-text047 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .faq131-faq2-question2 {
+    font-size: 24px;
+  }
+  .faq131-faq1-question1 {
+    font-size: 24px;
+  }
+}
